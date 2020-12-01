@@ -1,0 +1,12 @@
+{
+	"api": "http://192.168.50.99:8000/api/v1/",
+	"eventsUrl": "ws://example.com/events",
+	"debug": "true",
+	"publicRegisterEnabled": true,
+	"feedbackEnabled": true,
+	"privacyPolicyUrl": null,
+	"termsOfServiceUrl": null,
+	"GDPRUrl": null,
+	"maxUploadFileSize": null,
+	"contribPlugins": []
+}
